@@ -18,6 +18,8 @@ export PQA_GLOVE_PATH=${PQA_HOME}/data-raw/glove/glove.42B.300d.txt
 The original dataset are from [this work](https://arxiv.org/abs/1512.06863), and the datasets can be downloaded here: 
 [qa](http://jmcauley.ucsd.edu/data/amazon/qa/) and [reviews](http://jmcauley.ucsd.edu/data/amazon/).
 
+The preprocessed QA data can be found [here](https://drive.google.com/drive/folders/1G1t3ifTZcZ11G5x8XW7zXtgT3tBbhJfo?usp=sharing). The preprocessed review datasets are not uploaded due to their sizes, but they can be preprocessed from the raw data using the preprocessing scripts.
+
 To preprocess the data, run the following commands:
 ```bash
 cd ${PQA_HOME}/preprocess/scripts
