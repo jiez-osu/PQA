@@ -15,6 +15,7 @@ cd ${PQA_HOME}/preprocess/scripts
 python preprocess_from_raw_data.py
 python preprocess_with_spacy.py
 ```
+The annotated reviews for our user study can be found [here](https://drive.google.com/drive/folders/130qzlQk_t1Y4eNCG2oK4_BtnqJVVIcec?usp=sharing).
 
 ## 3 Code
 
