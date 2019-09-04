@@ -1,7 +1,7 @@
 # Riker
 
 ## 1 Introduction
-This repository contains source code and datasets for paper "Riker: Mining Rich Keyword Representations for Interpretable Product Question Answering" (SIGKDD 2019). 
+This repository contains source code and datasets for paper "Riker: Mining Rich Keyword Representations for Interpretable Product Question Answering" (SIGKDD 2019). ([paper](https://www.kdd.org/kdd2019/accepted-papers/view/riker-mining-rich-keyword-representations-for-interpretable-product-questio))
 
 
 ## 2 Dataset
