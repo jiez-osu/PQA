@@ -9,12 +9,14 @@ The original dataset are from [this work](https://arxiv.org/abs/1512.06863). Bot
 
 The preprocessed QA data can be found [here](https://drive.google.com/drive/folders/1G1t3ifTZcZ11G5x8XW7zXtgT3tBbhJfo?usp=sharing). The preprocessed review datasets are not uploaded due to their sizes, but they can be preprocessed from the raw data using the preprocessing scripts.
 
+<!--- 
 To preprocess the data, run the following commands:
 ```bash
 cd ${PQA_HOME}/preprocess/scripts
 python preprocess_from_raw_data.py
 python preprocess_with_spacy.py
 ```
+--->
 The annotated reviews for our user study can be found [here](https://drive.google.com/drive/folders/130qzlQk_t1Y4eNCG2oK4_BtnqJVVIcec?usp=sharing).
 
 ## 3 Code
